@@ -3,3 +3,4 @@
 * 2 tsp salt
 * 1/2 onion
 * 2 tbsp corriander 
+* 1 apple
